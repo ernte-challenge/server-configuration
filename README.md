@@ -2,7 +2,6 @@
 
 Repository that outlines how the server needs to be configured
 
-
 ## Component Installation
 
 [ComponentInstallation.md](component-installation/ComponentInstallation.md)
